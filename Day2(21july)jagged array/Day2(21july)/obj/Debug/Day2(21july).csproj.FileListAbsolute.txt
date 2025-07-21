@@ -1,0 +1,7 @@
+E:\wipro\Day2(21july)\Day2(21july)\bin\Debug\Day2(21july).exe.config
+E:\wipro\Day2(21july)\Day2(21july)\bin\Debug\Day2(21july).exe
+E:\wipro\Day2(21july)\Day2(21july)\bin\Debug\Day2(21july).pdb
+E:\wipro\Day2(21july)\Day2(21july)\obj\Debug\Day2(21july).csproj.AssemblyReference.cache
+E:\wipro\Day2(21july)\Day2(21july)\obj\Debug\Day2(21july).csproj.CoreCompileInputs.cache
+E:\wipro\Day2(21july)\Day2(21july)\obj\Debug\Day2(21july).exe
+E:\wipro\Day2(21july)\Day2(21july)\obj\Debug\Day2(21july).pdb
