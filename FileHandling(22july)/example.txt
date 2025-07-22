@@ -1,0 +1,2 @@
+Hello, World! This is my first file handling demo in C#
+This a line22-07-2025 16:27:57
