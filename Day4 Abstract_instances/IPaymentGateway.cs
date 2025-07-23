@@ -9,7 +9,7 @@ namespace Day3_22july_Abstract_instances
     internal interface IPaymentGateway
     {
 
-        //here we will declare the methods that will be implemented in the derived classes O references
+        //here we will declare the methods that will be implemented in the derived classes 
         void Pay(decimal amount);
         void Refund(decimal amount);
         //Incase or interface all methods are abstract by default, meaning they do not have a body. 

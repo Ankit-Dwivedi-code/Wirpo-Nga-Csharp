@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CCF24495-6F2A-4A81-8C5C-017303643D86}</ProjectGuid>
+    <ProjectGuid>{1DACCE0F-7CBA-4BF8-ABBD-8D5774AA1ED0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day_2</RootNamespace>
-    <AssemblyName>Day 2</AssemblyName>
+    <RootNamespace>Day4_Assignment</RootNamespace>
+    <AssemblyName>Day4 Assignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vehicle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
