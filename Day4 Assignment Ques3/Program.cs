@@ -19,11 +19,16 @@ namespace Day4_Assignment_Ques3
                 if (!File.Exists(filePath))
                 {
                     throw new CustomError("CustomError: File path not found!");
+                    Console.ReadLine();
                 }
 
                 Console.WriteLine("\n--- File Contents ---\n");
                 string content = File.ReadAllText(filePath);
                 Console.WriteLine(content);
+
+
+
+                Console.ReadLine();
 
 
 
