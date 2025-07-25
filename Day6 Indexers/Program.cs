@@ -11,6 +11,7 @@ namespace Day6_Indexers
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
